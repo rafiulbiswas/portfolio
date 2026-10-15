@@ -563,6 +563,7 @@ section + section {
 }
 
 .pub-venue.emnlp  { background: #1a5276; }
+.pub-venue.aacl-ijcnlp  { background: #4eafeb; }
 .pub-venue.eacl   { background: #6e2fa0; }
 .pub-venue.acl    { background: #b03a2e; }
 .pub-venue.coling { background: #1a6645; }
